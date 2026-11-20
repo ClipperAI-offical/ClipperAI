@@ -1,51 +1,110 @@
+🚀 Clipper AI
 
-Clipper AI
+🎬 Find the Moment. Create the Clip.
 
-Your Intelligent AI-Powered Video Clipping & Editing Assistant
+Clipper AI is an intelligent AI-powered Android video clipping and editing application designed to automatically discover engaging moments from long videos and supported live streams.
 
-Clipper AI is an advanced Android application designed to transform long videos and supported live streams into engaging short-form content using AI-powered highlight detection and automated video editing.
-
-Key Features
-
-- AI Smart Clipping: Automatically identifies interesting, funny, exciting and engaging moments without requiring manual timestamps.
-- AI Agent: Understands natural-language commands and helps control app features and workflows.
-- AI Brain: Analyzes video content, selects highlights, generates metadata and assists with content decisions.
-- Live Stream Intelligence: Uses accessible live chat activity, audience reactions, audio and visual signals to help identify important moments.
-- Automatic Captions: Generates synchronized subtitles for video clips.
-- Professional Video Editing: Supports vertical, horizontal, square and custom aspect ratios.
-- AI Metadata Generation: Creates relevant YouTube titles, descriptions, hashtags and SEO keywords.
-- Multiple AI Providers: Supports configurable AI providers and models, including Gemini, OpenRouter, OpenAI, Claude and compatible custom providers.
-- YouTube Integration: Supports authorized YouTube uploads using the official YouTube API.
-- Smart Scheduling: Helps organize and schedule video publishing.
-- Local Video Processing: Performs clipping, editing, rendering and video storage directly on the Android device.
-- Auto Update System: Checks for new versions, downloads verified APK updates and launches the official Android installer.
-
-Privacy & Security
-
-Clipper AI is designed around local-first video processing. It does not require a custom cloud video-processing backend. AI provider APIs are used for supported intelligence features, while actual video rendering and storage remain on the device.
-
-API credentials are intended to be stored securely. YouTube access uses Google's official authorization flow.
-
-Supported Content Workflows
-
-- Long-form video to Shorts
-- Supported live streams to short clips
-- Gaming highlights
-- Funny and reaction moments
-- Captions and metadata automation
-- YouTube publishing workflows
-
-Project Information
-
-- App Name: Clipper AI
-- Android Package: "com.clipperai.app"
-- Platform: Android
-- Video Processing: On-device
-- AI Intelligence: Configurable external AI APIs
-- Updates: GitHub Releases
-
-Note: Features depend on the connected AI provider, device capabilities, source accessibility and platform API permissions. Live-stream and chat analysis are supported only where technically and legally accessible.
+Turn long videos into attention-grabbing short clips with AI-powered highlight detection, automatic captions, smart editing and YouTube publishing tools.
 
 ---
 
-Clipper AI – Find the Moment. Create the Clip.
+✨ Key Features
+
+🤖 AI Agent
+
+- Control app features using natural-language commands.
+- Assist with video clipping and editing workflows.
+
+🧠 AI Brain
+
+- Analyze content and identify interesting moments.
+- Generate intelligent clip suggestions and metadata.
+
+✂️ Smart AI Clipping
+
+- Automatically detect funny, exciting and engaging moments.
+- Create multiple clips without manually selecting timestamps.
+- Support long videos and accessible live streams.
+
+💬 Automatic Captions
+
+- Generate synchronized subtitles.
+- Create engaging hooks and captions for short videos.
+
+🎨 Professional Video Editing
+
+- Vertical (9:16), Horizontal (16:9), Square (1:1) and custom aspect ratios.
+- Adjustable resolution, FPS, quality and framing.
+
+🌐 Multiple AI Providers
+
+- Google Gemini
+- OpenAI
+- Claude
+- OpenRouter
+- Compatible custom AI endpoints
+
+📺 YouTube Integration
+
+- Connect your YouTube channel securely.
+- Upload videos using official YouTube authorization.
+- Generate titles, descriptions, hashtags and SEO keywords.
+
+📅 Smart Scheduler
+
+- Organize uploads with a publishing queue.
+- Manage scheduled content and notifications.
+
+📱 Local Video Processing
+
+- Clip, edit, render and store videos directly on your Android device.
+- No custom cloud video-processing server required.
+
+🔄 Automatic App Updates
+
+- Check for new versions.
+- Download verified APK updates.
+- Install updates through the official Android installer.
+
+---
+
+🔐 Privacy & Security
+
+Clipper AI follows a local-first processing approach.
+
+- Video processing and rendering happen on the device.
+- AI API keys are intended to be stored securely.
+- YouTube uses Google's official authorization system.
+- AI features may send selected text or other supported data to the chosen AI provider.
+
+---
+
+📲 Project Information
+
+Details| Information
+App Name| Clipper AI
+Platform| Android
+Package Name| "com.clipperai.app"
+Video Processing| On-device
+AI System| Multiple AI Providers
+Publishing| YouTube
+Updates| GitHub Releases
+License| Proprietary – All Rights Reserved
+
+---
+
+⚠️ Important Notes
+
+Some features depend on device performance, AI provider availability, API permissions and source accessibility.
+
+Live-stream and live-chat analysis work only where technically and legally supported.
+
+This project is proprietary. Copying, redistributing, modifying or commercially using its source code without permission is prohibited.
+
+---
+
+🎯 Our Vision
+
+To make professional video clipping and AI-powered content creation easier, faster and more accessible for everyone.
+
+Clipper AI – Find the Moment. Create the Clip. 🚀
